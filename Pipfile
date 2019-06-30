@@ -8,7 +8,8 @@ ipython = "*"
 jupyterlab = "*"
 
 [packages]
-requests = "*"
+pymongo = "*"
+pipfile = "*"
 
 [requires]
 python_version = "3.6"
